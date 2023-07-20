@@ -7,5 +7,12 @@ public class Hello {
 		
 		System.out.println("Hello");
 	}
+	
+	
+	
+	public void text() {
+		System.out.println("This is Teja Branch");
+		
+	}
 
 }
